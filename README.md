@@ -1,6 +1,6 @@
 # Algorithm-MIAGE-GI-License-1-2017
 
-## Algorithm development for the MIAGE-GI License 1 project using AlgoBox software.
+### Algorithm development for the MIAGE-GI License 1 project using AlgoBox software.
 
 Home                   | 
 :-------------------------:|
